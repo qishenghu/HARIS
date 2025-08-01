@@ -5,7 +5,7 @@ This repository provides the code and data for the paper:
 **"Coordinating Search-Informed Reasoning and Reasoning-Guided Search in Claim Verification."**
 
 
-> **Note:** We are still working on this. Please kindly check back for updates.
+> **Note:** We are still working on the project. Please kindly check back for updates.
 
 ## Data
 
